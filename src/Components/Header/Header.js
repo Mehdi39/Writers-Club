@@ -24,7 +24,7 @@ const Header = (props) => {
                     <p>“A loss that can be repaired by money is not of such very great importance.” ― Anonymous, The Arabian Nights</p>
                     <h2>Total Budget: $15000/=</h2>
                 </div>
-                <div className="col col-lg-4 text-center">
+                <div className="col col-lg-4 text-center my-2">
                     <h2>{penIcon} Writers Added: {props.cart.length}</h2>
                     <h3>Total Cost: ${totalCost}</h3>
                     <ul className="list-group list-group-flush">
@@ -32,7 +32,7 @@ const Header = (props) => {
                             uniq.map(writer => <li className="list-group-item">{writer.author} - {writer.salary}</li>)
                         }
                     </ul>
-                    <button>Confirm</button>
+                    <button className="btn btn-success">Confirm</button>
                 </div>
             </div>
         </div>
