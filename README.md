@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is a project about making a best Writers Club with the most read writer of 21 centur. 
+This is a project about making a best Writers Club with the most read writer of 21 century. 
 
 ## Things used for this project
 
