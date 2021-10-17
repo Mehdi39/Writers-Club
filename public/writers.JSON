@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "author": "Cormac McCarthy",
+    "img": "https://imgix.ranker.com/user_node_img/39/775385/original/cormac-mccarthy-people-in-film-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Torrent",
+    "age": "88",
+    "country": "United States",
+    "salary": "$4907"
+  },
+  {
+    "id": 2,
+    "author": "Philip Roth",
+    "img": "https://imgix.ranker.com/user_node_img/90/1794452/original/philip-roth-photo-u2?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Montero",
+    "age": "$85",
+    "country": "United States",
+    "salary": "$2490"
+  },
+  {
+    "id": 3,
+    "author": "Michael Connelly",
+    "img": "https://imgix.ranker.com/node_img/79/1573162/original/michael-connelly-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Silverado 1500",
+    "age": "65 ",
+    "country": "Burundi",
+    "salary": "$4884"
+  },
+  {
+    "id": 4,
+    "author": "Milan Kundera",
+    "img": "https://imgix.ranker.com/node_img/80/1587912/original/milan-kundera-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Suburban",
+    "age": "92",
+    "country": "French",
+    "salary": "$2493"
+  },
+  {
+    "id": 5,
+    "author": "Stephen King",
+    "img": "https://imgix.ranker.com/user_node_img/3406/68111773/original/stephen-king-photo-u20?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Escape",
+    "age": "74",
+    "country": "United States",
+    "salary": "$2044"
+  },
+  {
+    "id": 6,
+    "author": "John le Carré",
+    "img": "https://imgix.ranker.com/node_img/66/1310304/original/john-le-carr-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Familia",
+    "age": "89",
+    "country": "United Kingdom",
+    "salary": "$4081"
+  },
+  {
+    "id": 7,
+    "author": "Thomas Pynchon",
+    "img": "https://imgix.ranker.com/node_img/112/2238286/original/thomas-pynchon-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Charade",
+    "age": "84",
+    "country": "United States",
+    "salary": "$4524"
+  },
+  {
+    "id": 8,
+    "author": "Don DeLillo",
+    "img": "https://imgix.ranker.com/node_img/44/879141/original/don-delillo-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Silverado 1500",
+    "age": "84",
+    "country": "United States",
+    "salary": "$2968"
+  },
+  {
+    "id": 9,
+    "author": "Haruki Murakami",
+    "img": "https://imgix.ranker.com/node_img/57/1134853/original/haruki-murakami-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "911",
+    "age": "72",
+    "country": "Japan",
+    "salary": "$2024"
+  },
+  {
+    "id": 10,
+    "author": "Kazuo Ishiguro",
+    "img": "https://imgix.ranker.com/node_img/68/1356202/original/kazuo-ishiguro-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Highlander",
+    "age": "66",
+    "country": "Japan",
+    "salary": "$4912"
+  },
+  {
+    "id": 11,
+    "author": "James Lee Burke",
+    "img": "https://imgix.ranker.com/node_img/64/1262465/original/james-lee-burke-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Grand Am",
+    "age": "84",
+    "country": "United States",
+    "salary": "$2631"
+  },
+  {
+    "id": 12,
+    "author": "J. K. Rowling",
+    "img": "https://imgix.ranker.com/user_node_img/67/1339836/original/j-k-rowling-u34?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "XLR",
+    "age": "56",
+    "country": "United Kingdom",
+    "salary": "$4574"
+  },
+  {
+    "id": 13,
+    "author": "Tom Wolfe",
+    "img": "https://imgix.ranker.com/node_img/113/2259426/original/tom-wolfe-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Express 3500",
+    "age": "38",
+    "country": "United States",
+    "salary": "$4006"
+  },
+  {
+    "id": 14,
+    "author": "E. L. Doctorow",
+    "img": "https://imgix.ranker.com/node_img/49/970804/original/e-l-doctorow-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "SLX",
+    "age": "84",
+    "country": "United States",
+    "salary": "$2236"
+  },
+  {
+    "id": 15,
+    "author": "Faythe",
+    "img": "https://imgix.ranker.com/node_img/115/2299562/original/umberto-eco-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Firebird",
+    "age": "82",
+    "country": "Italy",
+    "salary": "$2301"
+  },
+  {
+    "id": 16,
+    "author": "Pincas",
+    "img": "https://imgix.ranker.com/node_img/83/1659616/original/neil-gaiman-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "MKX",
+    "age": "92",
+    "country": "United States",
+    "salary": "$3954"
+  },
+  {
+    "id": 17,
+    "author": "Aldon",
+    "img": "https://imgix.ranker.com/node_img/66/1309037/original/john-irving-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Armada",
+    "age": "39",
+    "country": "United States",
+    "salary": "$3683"
+  },
+  {
+    "id": 18,
+    "author": "Pauletta",
+    "img": "https://imgix.ranker.com/user_node_img/76/1518244/original/margaret-atwood-people-in-tv-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Contour",
+    "age": "55",
+    "country": "United States",
+    "salary": "$3793"
+  },
+  {
+    "id": 19,
+    "author": "Wildon",
+    "img": "https://imgix.ranker.com/node_img/61/1204555/original/ian-mcewan-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "B-Series",
+    "age": "92",
+    "country": "United States",
+    "salary": "$4401"
+  },
+  {
+    "id": 20,
+    "author": "Keely",
+    "img": "https://imgix.ranker.com/node_img/66/1311059/original/john-maxwell-coetzee-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Riviera",
+    "age": "65",
+    "country": "United States",
+    "salary": "$4899"
+  },
+  {
+    "id": 21,
+    "author": "Merl",
+    "img": "https://imgix.ranker.com/user_node_img/114/2260165/original/toni-morrison-people-in-tv-photo-u4?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Bravada",
+    "age": "83",
+    "country": "United States",
+    "salary": "$4512"
+  },
+  {
+    "id": 22,
+    "author": "Phillida",
+    "img": "https://imgix.ranker.com/node_img/135/2691333/original/botho-strau--photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "NSX",
+    "age": "96",
+    "country": "United States",
+    "salary": "$2920"
+  },
+  {
+    "id": 23,
+    "author": "Ellsworth",
+    "img": "https://imgix.ranker.com/node_img/42/831246/original/dean-koontz-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Ram 1500",
+    "age": "89",
+    "country": "United States",
+    "salary": "$3662"
+  },
+  {
+    "id": 24,
+    "author": "Gorden",
+    "img": "https://imgix.ranker.com/node_img/37/724361/original/christian-kracht-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "Rabbit",
+    "age": "95",
+    "country": "United States",
+    "salary": "$4454"
+  },
+  {
+    "id": 25,
+    "author": "Melisent",
+    "img": "https://imgix.ranker.com/node_img/99/1964551/original/salman-rushdie-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=125&w=125",
+    "genre": "E-Series",
+    "age": "88",
+    "country": "United States",
+    "salary": "$2672"
+  }
+]
