@@ -9,6 +9,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Created Faka Data Using 
 https://www.mockaroo.com/
 
+## React Hook Used 
+#useState #useEffect
+
 ## Available Scripts
 
 In the project directory, you can run:
