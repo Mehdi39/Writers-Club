@@ -5,12 +5,17 @@ import { faFacebookSquare, faTwitterSquare } from '@fortawesome/free-brands-svg-
 
 const Writer = (props) => {
 
+    // fontawesome icon
     const facebookIcon = <FontAwesomeIcon icon={faFacebookSquare} />
     const twitterIcon = <FontAwesomeIcon icon={faTwitterSquare} />
 
+    // deconstructing props 
     const {author, img, genre, age, country, salary} = props.writersInfo;
+
     const handleSelectionBtn = props.handleSelectionBtn;
+
     return (
+        // showing every writer using bootstrap's card
         <div className="col col-lg-4 mb-3">
             <div className="card rounded">
                 <img src={img} className="card-img-top" alt="..."></img>
@@ -25,7 +30,7 @@ const Writer = (props) => {
                     <li className="list-group-item text-start">Salary: {salary}</li>
                 </ul>
                 <button className="btn btn-success" onClick={() => handleSelectionBtn(props.writersInfo)}>Add to Club</button>
-                <div className="card-body">
+                <div className="card-body text-center">
                     <a href="/" className="card-link fs-3">{facebookIcon}</a>
                     <a href="/" className="card-link fs-3">{twitterIcon}</a>
                 </div>
